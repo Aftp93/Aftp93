@@ -28,11 +28,10 @@
 
 ### 📱 Connect With Me :
 
-[<img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/p014ri5)
-[<img src="https://img.shields.io/badge/twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/p014ri5)
-[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/p014ri5)
-[<img src="https://img.shields.io/badge/discord-%237289da.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/users/547110674652856320)
-[<img src="https://img.shields.io/badge/spotify-%231ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://open.spotify.com/user/jnkeeicwyflylwezec1mdo7q4)
+[<img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/aftp93/)
+[<img src="https://img.shields.io/badge/twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/andres1993ftp)
+[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/andr%C3%A9s-felipe-tangarife-pati%C3%B1o-b21931126/)
+[<img src="https://img.shields.io/badge/spotify-%231ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://www.spotify.com/co/account/overview/)
 
 ---
 
