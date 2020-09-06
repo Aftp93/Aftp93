@@ -1,58 +1,47 @@
-<p align = "centro">
-  <h1 align = "center"> Hola, Soy Andrés Tangarife, </h1>
-  <p align = "center"> Soy un desarrollador web de 26 años, que codifica en Javascript <code> <img height = "20" src = "https://raw.githubusercontent.com/github/ explore / 80688e429a7d4ef2fca1e82350fe8e3517d3494d / topics / javascript / javascript.png "> </code>. </p>
-  <p align = "centro">
-    <a href="https://twitter.com/andres1993ftp" target="_blank">
-      <img src = "https://img.shields.io/twitter/follow/piyushsthr?color=%231DA1F2&label=Follow&logo=twitter&style=for-the-badge" />
-<! - <img height = "32" width = "32" style = "color: # 1DA1F2" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg "/> ->
-    </a>
-    <a href="https://www.instagram.com/aftp93/" target="_blank">
-      <img src = "https://img.shields.io/badge/Follow-%40PiyushSthr-orange?style=for-the-badge&logo=instagram" />
-    </a>
-    <a href="https://dev.to/piyush" target="_blank">
-      <img src = "https://img.shields.io/badge/Follow-@Piyush-black?style=for-the-badge&logo=dev.to" />
-    </a>    
-  </p>
-  <p align = "centro">
-    <h4 align = "center"> Idiomas: </h4>
-    <p align = "centro">
-      <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> </code>
-      <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> </code>
-      <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> </code>
-      <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> </code>
-      <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> </code>
-      <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"> </code>
-      <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"> </code>
-      <code> <img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"> </code>
-    </p>
-  </p>
-</p>
-<p align = "centro">
-  <h4 align = "center"> ¡Acerca de mí! </h4>
-  <p align = "center"> ¡Hola! 🖐 Soy Andrés Tangarife, un desarrollador web de 26 años de Cali-Colombia.
-  Actualmente estoy aprendiendo NodeJs <code> <img height = "15" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> </code>, ReactJS <code> <img height = "15" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> </code> y mecanografiado <code> <img height = "15" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> </code>.
-  Me encanta contribuir a OPEN-SOURCE❤. </p>
-  <h4 align = "center"> 📫 ¿Cómo comunicarse conmigo? </h4>
-  <p align = "center"> Puedes seguirme en <a href="https://www.instagram.com/aftp93/"> Instagram </a> o <a href = "https://twitter.com/andres1993ftp" > Twitter </a>. ¡Incluso puede crear un problema <a href="https://github.com/Aftp93"> aquí </a>! </p>
-</p>
-<h4 align = "center"> Estadísticas de Github: </h4>
-<p align = "center" justify = "center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" justify="center">
-    <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=PiyushSuthar&show_icons=true&title_color=2e2e2e&hide=issues&include_all_commits=true" />
-    <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact" />
-  </a>
-</p>
+### Hi! <img width="50" height="60" src="https://64.media.tumblr.com/e90d88a9c7b4c4ddc68131e9c4b49373/tumblr_nzh2l1KN7O1rwfctbo4_500.gifv"/>
 
-<h4 align = "center"> Último desarrollo del artículo 📝: </h4>
-<p align = "centro">
-  <a href="https://dev.to/piyush" target="_blank">
-    <img src = "https://latest-devto-post.vercel.app/api?username=piyush" />
-  </a>
-</p>
+[<img src="https://badges.pufler.dev/visits/p014ri5/p014ri5?style=for-the-badge&color=teal"/>](#)
+[<img src="https://badges.pufler.dev/repos/p014ri5?style=for-the-badge&color=teal"/>](#)
+[<img src="https://badges.pufler.dev/years/p014ri5?style=for-the-badge&color=teal"/>](#)
 
-<h4 align = "center"> Motívate: </h4>
-<p align = "centro">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal" />
-  </a>
-</p>
+<br/>
+
+[<img src="https://img.shields.io/badge/%F0%9F%A7%A1-Programming-blue?style=for-the-badge&color=orange"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%92%9C-Anime-blue?style=for-the-badge&color=purple"/>](#)
+[<img src="https://img.shields.io/badge/%F0%9F%92%9A-Hacking-blue?style=for-the-badge&color=green"/>](#)
+
+---
+
+<img src="https://github.com/p014ri5/p014ri5/raw/master/assets/Developer.gif" align="right" height="150" width="200"/>
+
+### About Me :
+
+- 🐻 I'm currently learning React, Firebase full stack Web Development!
+- 🚩 In free time you'll find me playing CTF challenges.
+- 🐧 Linux Buff o(^◇^)o
+- 🐞 Trying hard to report my first Bug on Hackerone/Bugcrowd this year.
+- 📚 I love reading fantasy and fiction novels.
+
+---
+
+### 📱 Connect With Me :
+
+[<img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/p014ri5)
+[<img src="https://img.shields.io/badge/twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/p014ri5)
+[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/p014ri5)
+[<img src="https://img.shields.io/badge/discord-%237289da.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/users/547110674652856320)
+[<img src="https://img.shields.io/badge/spotify-%231ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://open.spotify.com/user/jnkeeicwyflylwezec1mdo7q4)
+
+---
+
+### Tools and Technologies
+
+
+| | |
+|--- |--- |
+|__Front End Development__|__Back End Development__|
+|[<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>](#) [<img src="https://img.shields.io/badge/css3-%231572b6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>](#) [<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>](#) [<img src="https://img.shields.io/badge/bootstrap-%23563d7c.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>](#) [<img src="https://img.shields.io/badge/sass-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>](#) [<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>](#) |[<img src="https://img.shields.io/badge/firebase%20-%2320232a.svg?&style=for-the-badge&logo=firebase&logoColor=%23ffca28"/>](#) [<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>](#) |
+|__Programming Languages__|__Version Control__|
+|[<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>](#) [<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>](#) [<img src="https://img.shields.io/badge/c++-%2300599c.svg?&style=for-the-badge&logo=C%2b%2b&logoColor=white"/>](#) |[<img src="https://img.shields.io/badge/git-%23f05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>](#) |
+|__Cloud__|__Others__|
+|[<img src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>](#) |[<img src="https://img.shields.io/badge/ubuntu-%23e95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/>](#) [<img src="https://img.shields.io/badge/vs%20code-%23007acc.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>](#) [<img src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white"/>](#) [<img src="https://img.shields.io/badge/gnu%20bash-%234eaa25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white"/>](#) [<img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>](#) |
