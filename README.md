@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi there, I'm Piyush👦,</h1>
-<p align="center">I'm a 16 Y/O Web Developer 🇮🇳, Who codes in Javascript.</p>
+<p align="center">I'm a 26 Y/O Web Developer 🇮🇳, Who codes in Javascript.</p>
 <img width="50" height="60" src="https://64.media.tumblr.com/e90d88a9c7b4c4ddc68131e9c4b49373/tumblr_nzh2l1KN7O1rwfctbo4_500.gifv"/>
 
 [<img src="https://badges.pufler.dev/visits/p014ri5/p014ri5?style=for-the-badge&color=teal"/>](#)
