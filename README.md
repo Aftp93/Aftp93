@@ -32,6 +32,7 @@
 [<img src="https://img.shields.io/badge/twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/andres1993ftp)
 [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/andr%C3%A9s-felipe-tangarife-pati%C3%B1o-b21931126/)
 [<img src="https://img.shields.io/badge/spotify-%231ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://www.spotify.com/co/account/overview/)
+[<img src="https://img.shields.io/badge/instagram-%23e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/andresfelipetp/)
 
 ---
 
